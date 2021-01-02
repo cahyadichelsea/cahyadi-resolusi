@@ -1,0 +1,3 @@
+CAHYADI RESOLUSI
+- Konsisten membuat project sederhana setelah belajar pemrograman
+- Membuat aplikasi dengan menggunakan bahasa pemrogrman c#
